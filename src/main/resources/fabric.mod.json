@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "shadowrealm",
+	"version": "${version}",
+	"name": "Shadow Realm",
+	"description": "Shadow Realm Mod Real",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "ARR",
+	"icon": "assets/shadowrealm/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.springer29.shadowrealm.ShadowRealm"
+		],
+		"client": [
+			"net.springer29.shadowrealm.ShadowRealmClient"
+		],
+		"fabric-datagen": [
+			"net.springer29.shadowrealm.ShadowRealmDataGenerator"
+		]
+	},
+	"mixins": [
+		"shadowrealm.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.15.11",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
