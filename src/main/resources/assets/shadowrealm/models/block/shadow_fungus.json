@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowrealm:block/nether_wart_block",
+    "up": "shadowrealm:block/nether_wart_block",
+    "north": "shadowrealm:block/nether_wart_block",
+    "east": "shadowrealm:block/nether_wart_block",
+    "south": "shadowrealm:block/nether_wart_block",
+    "west": "shadowrealm:block/nether_wart_block",
+    "particle": "shadowrealm:block/nether_wart_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowrealm:block/polished_shadow_bricks",
+    "up": "shadowrealm:block/polished_shadow_bricks",
+    "north": "shadowrealm:block/polished_shadow_bricks",
+    "east": "shadowrealm:block/polished_shadow_bricks",
+    "south": "shadowrealm:block/polished_shadow_bricks",
+    "west": "shadowrealm:block/polished_shadow_bricks",
+    "particle": "shadowrealm:block/polished_shadow_bricks"
+  },
+  "render_type": "solid"
+}

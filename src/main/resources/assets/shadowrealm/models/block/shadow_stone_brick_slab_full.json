@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "shadowrealm:block/shadow_stone_bricks",
+    "top": "shadowrealm:block/shadow_stone_bricks",
+    "side": "shadowrealm:block/shadow_stone_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowrealm:block/pressure_block",
+    "up": "shadowrealm:block/pressure_block",
+    "north": "shadowrealm:block/pressure_block",
+    "east": "shadowrealm:block/pressure_block",
+    "south": "shadowrealm:block/pressure_block",
+    "west": "shadowrealm:block/pressure_block",
+    "particle": "shadowrealm:block/pressure_block"
+  },
+  "render_type": "solid"
+}

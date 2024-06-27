@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "shadowrealm:block/silvium_planks",
+    "top": "shadowrealm:block/silvium_planks",
+    "side": "shadowrealm:block/silvium_planks"
+  },
+  "render_type": "solid"
+}

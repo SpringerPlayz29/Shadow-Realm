@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "shadowrealm:block/silvium_pressure_plate"
+    },
+    "powered=true": {
+      "model": "shadowrealm:block/silvium_pressure_plate_down"
+    }
+  }
+}

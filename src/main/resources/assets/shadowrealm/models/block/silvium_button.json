@@ -1,0 +1,7 @@
+{
+  "parent": "block/button",
+  "textures": {
+    "texture": "shadowrealm:block/silvium_planks"
+  },
+  "render_type": "solid"
+}

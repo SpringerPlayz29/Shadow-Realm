@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "shadowrealm:block/silvium_slab"
+    },
+    "type=top": {
+      "model": "shadowrealm:block/silvium_slab_top"
+    },
+    "type=double": {
+      "model": "shadowrealm:block/silvium_slab_full"
+    }
+  }
+}

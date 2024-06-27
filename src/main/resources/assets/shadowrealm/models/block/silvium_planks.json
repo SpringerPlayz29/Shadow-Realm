@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "shadowrealm:block/silvium_planks",
+    "particle": "shadowrealm:block/silvium_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "shadowrealm:block/shadow_stone_bricks",
+    "particle": "shadowrealm:block/shadow_stone_bricks"
+  },
+  "render_type": "solid"
+}
