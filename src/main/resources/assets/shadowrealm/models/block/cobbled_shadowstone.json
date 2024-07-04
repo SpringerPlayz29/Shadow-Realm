@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowrealm:block/cobbled_shadowstone",
+    "up": "shadowrealm:block/cobbled_shadowstone",
+    "north": "shadowrealm:block/cobbled_shadowstone",
+    "east": "shadowrealm:block/cobbled_shadowstone",
+    "south": "shadowrealm:block/cobbled_shadowstone",
+    "west": "shadowrealm:block/cobbled_shadowstone",
+    "particle": "shadowrealm:block/cobbled_shadowstone"
+  },
+  "render_type": "solid"
+}

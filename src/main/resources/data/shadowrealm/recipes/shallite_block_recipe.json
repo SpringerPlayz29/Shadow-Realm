@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "shadowrealm:shallite_ingot"
+    }
+  },
+  "result": {
+    "item": "shadowrealm:shallite_block",
+    "count": 1
+  }
+}

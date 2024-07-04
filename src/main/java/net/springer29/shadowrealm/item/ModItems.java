@@ -13,6 +13,7 @@ import net.springer29.shadowrealm.ShadowRealm;
 public class ModItems {
     public static final Item SHALLITE_INGOT = registerItem("shallite_ingot", new Item(new FabricItemSettings()));
     public static final Item SHADOW_CRYSTAL = registerItem("shadow_crystal", new Item(new FabricItemSettings()));
+    public static final Item SILVIUM_STICK = registerItem("silvium_stick", new Item(new FabricItemSettings()));
 
 
     private static Item registerItem(String name, Item item) {
@@ -20,6 +21,6 @@ public class ModItems {
     }
 
     public static void registerModItems() {
-        ShadowRealm.LOGGER.info("Registering Mod Items for" + ShadowRealm.MOD_ID);
+        ShadowRealm.LOGGER.info("Registering Mod Items for " + ShadowRealm.MOD_ID);
     }
 }

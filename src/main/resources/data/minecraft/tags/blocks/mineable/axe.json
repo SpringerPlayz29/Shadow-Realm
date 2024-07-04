@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "shadowrealm:silvium_log",
+    "shadowrealm:silvium_wood",
+    "shadowrealm:silvium_planks",
+    "shadowrealm:silvium_stairs"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "shadowrealm:block/shadowstone_brick",
+    "top": "shadowrealm:block/shadowstone_brick",
+    "side": "shadowrealm:block/shadowstone_brick"
+  },
+  "render_type": "solid"
+}

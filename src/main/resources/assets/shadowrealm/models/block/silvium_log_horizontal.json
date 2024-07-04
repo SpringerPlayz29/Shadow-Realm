@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/cube_column",
+  "parent": "minecraft:block/cube_column_horizontal",
   "textures": {
     "end": "shadowrealm:block/silvium_log_top",
     "side": "shadowrealm:block/silvium_log"

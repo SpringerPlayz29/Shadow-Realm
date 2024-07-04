@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "shadowrealm:shallite_block",
+    "shadowrealm:shadow_crystal_block",
+    "shadowrealm:shadowstone",
+    "shadowrealm:shadowstone_bricks",
+    "shadowrealm:cobbled_shadowstone",
+    "shadowrealm:polished_shadowstone",
+    "shadowrealm:chiseled_shadowstone_bricks",
+    "shadowrealm:shallite_ore",
+    "shadowrealm:shadow_crystal_ore",
+    "shadowrealm:shadow_soil",
+    "shadowrealm:silvium_log",
+    "shadowrealm:silvium_wood",
+    "shadowrealm:silvium_planks",
+    "shadowrealm:silvium_stairs"
+  ]
+}

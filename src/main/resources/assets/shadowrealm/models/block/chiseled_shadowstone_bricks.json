@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "shadowrealm:block/chiseled_shadowstone_bricks",
+    "particle": "shadowrealm:block/chiseled_shadowstone_bricks"
+  },
+  "render_type": "solid"
+}

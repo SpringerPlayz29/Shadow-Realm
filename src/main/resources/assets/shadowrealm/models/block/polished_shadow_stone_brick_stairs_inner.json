@@ -1,9 +1,0 @@
-{
-  "parent": "block/inner_stairs",
-  "textures": {
-    "bottom": "shadowrealm:block/polished_shadow_bricks",
-    "top": "shadowrealm:block/polished_shadow_bricks",
-    "side": "shadowrealm:block/polished_shadow_bricks"
-  },
-  "render_type": "solid"
-}

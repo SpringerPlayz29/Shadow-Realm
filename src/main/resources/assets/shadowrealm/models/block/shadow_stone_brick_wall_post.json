@@ -1,8 +1,0 @@
-{
-  "parent": "block/template_wall_post",
-  "textures": {
-    "wall": "shadowrealm:block/shadow_stone_bricks",
-    "particle": "shadowrealm:block/shadow_stone_bricks"
-  },
-  "render_type": "solid"
-}

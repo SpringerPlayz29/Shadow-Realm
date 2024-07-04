@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "shadowrealm:shadow_crystal"
+    }
+  },
+  "result": {
+    "item": "shadowrealm:shadow_crystal_block",
+    "count": 1
+  }
+}

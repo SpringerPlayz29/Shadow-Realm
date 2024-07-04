@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "shadowrealm:block/shadowstone_brick_slab"
+    },
+    "type=top": {
+      "model": "shadowrealm:block/shadowstone_brick_slab_top"
+    },
+    "type=double": {
+      "model": "shadowrealm:block/shadowstone_brick_slab_full"
+    }
+  }
+}

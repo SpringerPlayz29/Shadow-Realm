@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "shadowrealm:shallite_block"
+    }
+  ],
+  "result": {
+    "item": "shadowrealm:shallite_ingot",
+    "count": 9
+  }
+}

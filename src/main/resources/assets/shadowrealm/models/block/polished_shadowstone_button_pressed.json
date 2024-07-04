@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "shadowrealm:block/polished_shadowstone"
+  },
+  "render_type": "solid"
+}

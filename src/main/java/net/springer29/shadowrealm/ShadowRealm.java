@@ -2,6 +2,8 @@ package net.springer29.shadowrealm;
 
 import net.fabricmc.api.ModInitializer;
 
+import net.springer29.shadowrealm.block.ModBlocks;
+import net.springer29.shadowrealm.item.ModItemGroups;
 import net.springer29.shadowrealm.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -15,5 +17,7 @@ public class ShadowRealm implements ModInitializer {
 		LOGGER.info("Into The Shadow Realm");
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
+		ModItemGroups.registerItemGroups();
 	}
 }

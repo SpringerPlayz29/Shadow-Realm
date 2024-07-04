@@ -1,8 +1,7 @@
 {
-  "parent": "block/cube_all",
+  "parent": "minecraft:block/cube_column",
   "textures": {
-    "all": "shadowrealm:block/silvium_log_side",
-    "particle": "shadowrealm:block/silvium_log_side"
-  },
-  "render_type": "solid"
+    "end": "shadowrealm:block/silvium_log",
+    "side": "shadowrealm:block/silvium_log"
+  }
 }

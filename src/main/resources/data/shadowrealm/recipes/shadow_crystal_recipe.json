@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "shadowrealm:shadow_crystal_block"
+    }
+  ],
+  "result": {
+    "item": "shadowrealm:shadow_block",
+    "count": 9
+  }
+}

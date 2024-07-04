@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "shadowrealm:block/shadowstone_brick",
+    "particle": "shadowrealm:block/shadowstone_brick"
+  },
+  "render_type": "solid"
+}

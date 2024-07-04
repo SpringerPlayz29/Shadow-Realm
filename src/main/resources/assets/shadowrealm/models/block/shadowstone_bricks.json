@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "shadowrealm:block/shadowstone_bricks",
+    "up": "shadowrealm:block/shadowstone_bricks",
+    "north": "shadowrealm:block/shadowstone_bricks",
+    "east": "shadowrealm:block/shadowstone_bricks",
+    "south": "shadowrealm:block/shadowstone_bricks",
+    "west": "shadowrealm:block/shadowstone_bricks",
+    "particle": "shadowrealm:block/shadowstone_bricks"
+  },
+  "render_type": "solid"
+}
